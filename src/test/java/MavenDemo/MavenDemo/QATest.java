@@ -34,5 +34,6 @@ public class QATest {
 		int a=10;
 		int b=20;
 		Assert.assertEquals(200, a*b);
+		Assert.assertEquals(200, a*b);
 	}
 }
