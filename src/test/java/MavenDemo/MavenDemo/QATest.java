@@ -37,3 +37,10 @@ public class QATest {
 		Assert.assertEquals(200, a*b);
 	}
 }
+@Test
+public void SumOfThree(){
+	int x=40;
+	int y=59;
+	int z=80;
+	System.out.println("sum is===="+x+y+z);
+}
